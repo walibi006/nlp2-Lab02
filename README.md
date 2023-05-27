@@ -6,13 +6,11 @@ Authors:
 * Jonathan POELGER
 
 The project consists of 2 main parts:
-  - Answer theoritical
+  - The theoritical part
   - The implementation of an encoder-decoder model
 
 Our implementiations consists of one files, `Lab02.ipynb`, which contains the answers to the theoritical questions as well as the implementations.
 it uses the following libraries:
-  - `datasets` for the dataset
-  - `scikit-learn` for machine learning utils
   - `pytorch` for the Encoder-Decoder model
   - `torchtext` for vocabulary and tokenization
   - `sacrebleu` for encoder-decoder evaluation
